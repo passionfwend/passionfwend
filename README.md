@@ -3,7 +3,7 @@
 
 
 ![github](https://img.shields.io/badge/-welcome-cornflower?style=for-the-badge&logo=3M&logoColor=yello)
-![github](https://img.shields.io/badge/-to-blue?style=for-the-badge&logo=Adidas&logoColor=lightgreen)
+![github](https://img.shields.io/badge/-to-blue?style=for-the-badge&logo=Nike&logoColor=lightgreen)
 ![github](https://img.shields.io/badge/-my-pink?style=for-the-badge&logo=HP&logoColor=red)
 ![github](https://img.shields.io/badge/-webpage-orange?style=for-the-badge&logo=Pinterest&logoColor=blue)
 
